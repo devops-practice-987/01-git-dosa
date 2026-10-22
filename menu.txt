@@ -7,3 +7,7 @@ egg dosa:
 dosa flour
 oil
 2 eggs
+
+neyyi dosa:
+===========
+dosa flour
