@@ -13,3 +13,9 @@ neyyi dosa:
 dosa flour
 oil
 neyyi
+
+onion dosa:
+==========
+batter
+oil
+10grams onions
